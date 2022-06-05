@@ -7,13 +7,11 @@
 
  #### bbevilacqu4 👽
 -->
+
 <div align="center">
   <a href="https://github.com/bbevilacqu4">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbevilacqu4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbevilacqu4&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
-  
+  <img width="39%em" src="https://github-readme-stats.vercel.app/api?username=bbevilacqu4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img width="59%em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbevilacqu4&layout=compact&langs_count=7&theme=merko"/>
 <div style="display: inline_block"><br>
    <img align="center" alt="bbevilacqu4-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
    <img align="center" alt="bbevilacqu4-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/> 
