@@ -1,7 +1,7 @@
 ### Olá Terráqueos! Eu sou o Bruno Bevilacqua, seja bem-vindo ao meu repositório! 🛸
 
 
-- 🔭 Atualmente trabalho na área de Suporte e Infraestrutura
+- 🔭 Atualmente trabalho na área de Analise de Sistemas
 - 🌱 Estudando (HTML5, CSS3, JS, JAVA, TS, Angular e Spring) também estou me aprofundando em Cloud e estudando o Azure. 
 - ⚠️ Em Construção...
 
