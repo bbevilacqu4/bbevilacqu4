@@ -8,7 +8,7 @@
  #### bbevilacqu4 👽
 -->
 
-<div align="center" display="flex">
+<div align="center" style="display: flex">
   <a href="https://github.com/bbevilacqu4">
   <img width="535px" src="https://github-readme-stats.vercel.app/api?username=bbevilacqu4&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img width="535px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbevilacqu4&layout=compact&langs_count=7&theme=merko"/>
