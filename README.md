@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho na área de Analise de Sistemas
-- 🌱 Estudando (HTML5, CSS3, JS, JAVA, TS, Angular e Spring) também estou me aprofundando em Cloud e estudando o Azure. 
+- 🌱 Estudando (HTML5, CSS3, JS e TS) também estou me aprofundando em Cloud e estudando o Azure. 
 - ⚠️ Em Construção...
 
  #### bbevilacqu4 👽
@@ -18,8 +18,6 @@
    <img align="center" alt="bbevilacqu4-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
    <img align="center" alt="bbevilacqu4-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
    <img align="center" alt="bbevilacqu4-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>  
-   <img align="center" alt="bbevilacqu4-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-   <img align="center" alt="bbevilacqu4-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
    <img align="center" alt="bbevilacqu4-Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
    <img align="center" alt="bbevilacqu4-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
     
